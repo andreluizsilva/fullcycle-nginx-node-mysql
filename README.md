@@ -9,6 +9,6 @@ Fazer o clone do repositório.
 
 <br/><br/>
 
-**Acessar o131 endereço**
+**Acessar o endereço**
 
 <code>http://localhost:8080/</code>
